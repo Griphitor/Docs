@@ -2,4 +2,8 @@
 
 Welcome to the griphitor ide docs!
 
-Here you will lean how to user the griptitor ide, and it's built in functions.
+Here you will learn how to use the griptitor ide, and it's built in functions.
+
+- [Instalattion]() 
+- [Packages]()
+- [Running files]()
