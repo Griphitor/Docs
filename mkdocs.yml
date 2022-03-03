@@ -6,6 +6,8 @@ repo_name: 'Griphitor/Documentation'
 repo_url: 'https://github.com/Griphitor/Documentation'
 nav:
     - Home: index.md
+    - Install: install.md
     - Pre-Included Libs: libraries/index.md
+    
 theme:
   name: 'material'
